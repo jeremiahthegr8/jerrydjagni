@@ -1,4 +1,7 @@
 <h1 align="center">Jerry Djagni</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=D09D28&center=true&vCenter=true&lines=Building+Financial+Infrastructure;Blockchain+Engineer;Full+Stack+Developer;System+Architect" />
+</p>
 <h3 align="center">Full-Stack Engineer • Blockchain Developer • Systems Builder</h3>
 
 ---
@@ -53,5 +56,5 @@ Smart exam practice system
 
 ## 📫 Contact
 
-- Email: your@email.com
-- LinkedIn: (add later)
+- Email: jeremiahdjagni@gmail.com
+- LinkedIn: https://www.linkedin.com/in/djagnijerrybless/
